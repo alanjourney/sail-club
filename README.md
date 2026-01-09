@@ -1,6 +1,6 @@
 # Sail Club - Learning Archive
 
-> 📚 **Archive Notice:** This is my very first project from early days (2024).
+> 📚 **Archive Notice:** This is my very first project from early days (2022-2023).
 > Created during "Start in Programming" course. Kept for historical purposes. Check my pinned repositories for current work.
 
 ---
@@ -24,7 +24,7 @@ My first ever web project where I learned the basics of HTML and CSS. A simple l
 ---
 
 **Status:** Archived - First Learning Project  
-**Year:** 2024
+**Year:** 2022-2023
 
 💡 **Looking for my current work?** Check out my pinned repositories for production-grade Web3 and trading applications.
 
