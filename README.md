@@ -19,7 +19,7 @@ My first ever web project where I learned the basics of HTML and CSS. A simple l
 - CSS
 
 ## Live Demo
-[View Demo](https://alexanderkhokhlov92.github.io/sail-club/)
+[View Demo](https://alanjourney.github.io/sail-club/)
 
 ---
 
